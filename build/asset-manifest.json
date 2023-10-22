@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1de9fb7b.css",
+    "main.js": "/static/js/main.28107443.js",
+    "static/media/Troll-face.png": "/static/media/Troll-face.ba1e3ab289311a5adc2c.png",
+    "index.html": "/index.html",
+    "main.1de9fb7b.css.map": "/static/css/main.1de9fb7b.css.map",
+    "main.28107443.js.map": "/static/js/main.28107443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de9fb7b.css",
+    "static/js/main.28107443.js"
+  ]
+}
